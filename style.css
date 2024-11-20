@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4c66af;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #mensaje {
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  
+  
